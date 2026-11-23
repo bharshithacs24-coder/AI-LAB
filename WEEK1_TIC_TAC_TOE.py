@@ -3,7 +3,7 @@ board = [
     "X", " ", " ",
     "X", "O", "O"
 ]
-
+print("name:B Harshitha Pai usn :1WN24CS059")
 cost = 0
 
 def display_board():
